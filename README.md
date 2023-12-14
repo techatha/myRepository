@@ -1,6 +1,7 @@
 Markdown Cheatsheet <a name="TOP"></a>
 ==================
- 
+Collaborator: Jireh Mae Muyana, 642115506
+==================
 ----
 # Heading 1 #
     Markup : # Heading 1 #
